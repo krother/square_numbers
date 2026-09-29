@@ -1,4 +1,6 @@
-
+"""
+Result of the square number kata on day 2.
+"""
 group = list(range(50))
 
 for n in group:
