@@ -1,0 +1,1 @@
+program makes square numbers
